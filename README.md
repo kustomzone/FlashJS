@@ -1,6 +1,13 @@
 FLASH JS
 ========
 
+See it in action
+----------------
+- <a href="http://pixelscommander.com/polygon/skateboarding/">See it in action</a>
+- <a href="http://pixelscommander.com/polygon/soccer/">Soccer</a>
+- <a href="http://pixelscommander.com/polygon/football/">Football</a>
+- <a href="http://pixelscommander.com/polygon/snowboarding/">Snowboarding</a>
+
 FlashJS is JavaScript graphics and game development engine with API similar to Flash one.
 It`s HTML5 game development tool, based on verified for years Flash methodology.
 Just write ActionScript 3 code inside of <actionscript> tag.
@@ -13,7 +20,7 @@ Usage
 
 You can use FlashJS for applications or game development.
 
-Start from analyzing racing.html example.
+Start from analyzing examples.
 
 
 Bug tracker
